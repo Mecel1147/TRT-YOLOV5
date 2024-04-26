@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+yolov5inferm
+CmakeLists.txt
+*.onnx
+*.trtmodel
+build/
+
 # Compiled Object files
 *.slo
 *.lo
